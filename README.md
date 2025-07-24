@@ -195,7 +195,7 @@ If you find this project helpful, please consider:
 
 <div align="center">
 
-**Built with ❤️ by [Cyber_Buddy]**
+**Built with ❤️ by Cyber_Buddy**
 
 [⬆ Back to Top](#-advanced-caesar-cipher-decoder-v20)
 
