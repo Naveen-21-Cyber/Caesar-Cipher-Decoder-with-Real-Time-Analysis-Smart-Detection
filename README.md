@@ -7,6 +7,12 @@
 
 A sophisticated, AI-powered Caesar Cipher decoder with advanced pattern recognition, real-time frequency analysis, and intelligent auto-detection capabilities. Built with Python and featuring a modern dark-themed GUI.
 
+<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/cbd60de9-dc10-47c9-af35-38727852a03f" />
+<img width="1918" height="1000" alt="image" src="https://github.com/user-attachments/assets/01363c93-46fa-4381-ad49-d08cfa975938" />
+<img width="1918" height="1005" alt="image" src="https://github.com/user-attachments/assets/c49f80d5-8630-4947-9139-974575dac355" />
+<img width="1918" height="1008" alt="image" src="https://github.com/user-attachments/assets/2f680f51-16b7-4537-947a-67ccad55e267" />
+
+
 ## 🌟 Features
 
 ### 🤖 AI-Powered Analysis
@@ -43,12 +49,12 @@ pip install tkinter matplotlib numpy
 1. Clone the repository:
 ```bash
 git clone https://github.com/Naveen-21-Cyber/Caesar-Cipher-Decoder-with-Real-Time-Analysis-Smart-Detection.git
-cd advanced-caesar-decoder
+cd Caesar-Cipher-Decoder-with-Real-Time-Analysis-Smart-Detection
 ```
 
 2. Run the application:
 ```bash
-python caesar_decoder.py
+python caesarcipher.py
 ```
 
 ## 📖 Usage Guide
